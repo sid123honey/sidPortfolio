@@ -111,7 +111,7 @@ function HeroSection() {
               <div className="ml-4 lg:ml-8 mr-2">
                 <span className=" text-white">skills:</span>
                 <span className="text-gray-400">{`['`}</span>
-                <span className="text-amber-300">Java</span>
+                <span className="text-amber-300">C++</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Javascript</span>
                 <span className="text-gray-400">{"', '"}</span>
@@ -124,6 +124,12 @@ function HeroSection() {
                 <span className="text-amber-300">Bootstrap</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MySQL</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Node</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Express</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Mongodb</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">
                   Data Structures & Algorithms
